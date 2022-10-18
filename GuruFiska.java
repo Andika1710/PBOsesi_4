@@ -13,7 +13,7 @@ public class GuruFiska extends GURU_1{
 	}
 
     void showoff() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        System.out.println("GuruFiska!!");
     }
 
    
