@@ -13,7 +13,7 @@ public class GuruFiska extends GURU_1{
 	}
 
     void showoff() {
-        System.out.println("GuruFiska!!");
+        System.out.println("Saya GuruFiska!!");
     }
 
    
